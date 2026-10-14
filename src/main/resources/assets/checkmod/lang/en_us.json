@@ -1,0 +1,6 @@
+{
+  "checkmod.checking": "Checking %s",
+  "checkmod.unchecked": "Unchecked",
+  "checkmod.command.check.usage": "Usage: /check <player>",
+  "checkmod.command.uncheck.usage": "Usage: /uncheck"
+}
